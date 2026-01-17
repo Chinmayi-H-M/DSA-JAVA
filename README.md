@@ -14,3 +14,9 @@ This repo is created to stay consistent, track learning, and build strong proble
 - Maintain daily consistency
 
 ---
+## 🛠️ Tech Stack
+- **Language**: Java  
+- **IDE**: VS Code / IntelliJ IDEA  
+- **Version Control**: Git & GitHub  
+
+---
