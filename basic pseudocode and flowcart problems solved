@@ -42,4 +42,10 @@ Print sum → End
 
 ---
 
+## 3. Take a number as input and print the multiplication table for it
+
+### Pseudocode
+START  
+Input n
+
 
