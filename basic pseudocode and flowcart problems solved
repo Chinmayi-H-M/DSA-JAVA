@@ -47,5 +47,10 @@ Print sum → End
 ### Pseudocode
 START  
 Input n
+FOR i = 1 to 10  
+    Print n × i  
+END FOR  
+
+END
 
 
