@@ -35,5 +35,11 @@ Input a, b
 sum = a + b  
 Print sum  
 END
+### Flowchart (Text)
+Start → Input a, b →  
+sum = a + b →  
+Print sum → End
+
+---
 
 
