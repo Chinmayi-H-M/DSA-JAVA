@@ -8,4 +8,12 @@ Create flowchart and pseudocode for the following problems.
 ### Pseudocode
 START  
 Input year  
+F year % 400 == 0  
+    Print "Leap Year"  
+ELSE IF year % 100 == 0  
+    Print "Not a Leap Year"  
+ELSE IF year % 4 == 0  
+    Print "Leap Year"  
+ELSE  
+    Print "Not a Leap Year" 
 
