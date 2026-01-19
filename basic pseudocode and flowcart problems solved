@@ -25,4 +25,15 @@ Else → year % 100 == 0? → Not Leap Year → End
 Else → year % 4 == 0? → Leap Year → End  
 Else → Not Leap Year → End
 
+--
+
+## 2. Take two numbers and print the sum of both
+
+### Pseudocode
+START  
+Input a, b  
+sum = a + b  
+Print sum  
+END
+
 
