@@ -16,5 +16,13 @@ ELSE IF year % 4 == 0
     Print "Leap Year"  
 ELSE  
     Print "Not a Leap Year" 
+END
+
+### Flowchart (Text)
+Start → Input year →  
+year % 400 == 0? → Leap Year → End  
+Else → year % 100 == 0? → Not Leap Year → End  
+Else → year % 4 == 0? → Leap Year → End  
+Else → Not Leap Year → End
 
 
