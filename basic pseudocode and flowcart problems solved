@@ -101,6 +101,18 @@ WHILE true
     IF value == 'x'  
         BREAK  
     ELSE  
+ 
+    sum = sum + value  
+END WHILE  
+
+Print sum  
+END
+
+### Flowchart (Text)
+Start → sum = 0 →  
+Input value →  
+value == 'x'? → Yes → Print sum → End  
+No → sum = sum + value → Repeat
 
 
 
