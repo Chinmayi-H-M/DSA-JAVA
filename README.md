@@ -20,6 +20,13 @@ This repo is created to stay consistent, track learning, and build strong proble
 - **Version Control**: Git & GitHub  
 
 ---
+## 📚 DSA in Java Journey
+
+**YouTube Course:**  
+[DSA in Java by Kunal Kushwaha](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrEJFs6wI-6C6fs)
+
+**Approach:**  
+Concept → Practice → Revise
 
 
 ---
