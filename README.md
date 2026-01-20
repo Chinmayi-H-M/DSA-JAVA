@@ -20,8 +20,6 @@ This repo is created to stay consistent, track learning, and build strong proble
 - **Version Control**: Git & GitHub  
 
 ---
-## 📚 Learning Source
-- **YouTube**: DSA in Java by **:contentReference[oaicite:0]{index=0}**
-- **Approach**: Concept → Practice → Revise
+
 
 ---
