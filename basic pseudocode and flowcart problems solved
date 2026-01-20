@@ -77,8 +77,16 @@ END WHILE
 
 HCF = x  
 LCM = (a × b) / HCF 
+
 Print HCF, LCM  
 END
+
+### Flowchart (Text)
+Start → Input a, b →  
+Repeat until y = 0 →  
+Find HCF →  
+Calculate LCM →  
+Print HCF, LCM → End
 
 
 
