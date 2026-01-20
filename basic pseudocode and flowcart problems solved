@@ -77,6 +77,8 @@ END WHILE
 
 HCF = x  
 LCM = (a × b) / HCF 
+Print HCF, LCM  
+END
 
 
 
