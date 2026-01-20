@@ -67,7 +67,16 @@ Repeat → End
 START  
 Input a, b  
 x = a  
-y = b  
+y = b 
+
+WHILE y != 0  
+    temp = y  
+    y = x % y  
+    x = temp  
+END WHILE  
+
+HCF = x  
+LCM = (a × b) / HCF 
 
 
 
