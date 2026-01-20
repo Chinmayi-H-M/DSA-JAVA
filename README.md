@@ -23,7 +23,7 @@ This repo is created to stay consistent, track learning, and build strong proble
 ## 📚 DSA in Java Journey
 
 **YouTube Course:**  
-[DSA in Java by Kunal Kushwaha](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrEJFs6wI-6C6fs)
+[DSA in Java by Kunal Kushwaha](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 **Approach:**  
 Concept → Practice → Revise
