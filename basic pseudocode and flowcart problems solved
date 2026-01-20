@@ -59,5 +59,16 @@ i = 1 →
 i ≤ 10? → Print n × i → i = i + 1 →  
 Repeat → End
 
+---
+
+## 4. Take 2 numbers as inputs and find their HCF and LCM
+
+### Pseudocode
+START  
+Input a, b  
+x = a  
+y = b  
+
+
 
 
