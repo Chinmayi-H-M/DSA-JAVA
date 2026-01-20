@@ -53,4 +53,11 @@ END FOR
 
 END
 
+### Flowchart (Text)
+Start → Input n →  
+i = 1 →  
+i ≤ 10? → Print n × i → i = i + 1 →  
+Repeat → End
+
+
 
