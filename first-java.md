@@ -1,3 +1,6 @@
+1.Check for even or odd 
+
+
 import java.util.Scanner;
 
 class EvenOdd {
@@ -13,3 +16,22 @@ class EvenOdd {
         }
     }
 }
+
+
+2.Largest of 3 numbers
+
+import java.util.Scanner;
+
+class max3num {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int n1 = sc.nextInt();
+        int n2 = sc.nextInt();
+        int n3 = sc.nextInt();
+        
+    }
+}
+
+
