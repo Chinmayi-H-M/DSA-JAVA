@@ -91,6 +91,9 @@ class Main {
     }
 }
 
+6.Reverse the number
+
+
 
 
 
