@@ -74,4 +74,23 @@ class Main {
 }
 
 
+5.Count the number of ocurreneces
+class Main {
+    public static void main(String[] args) {
+        int n=90999;
+        int num=n;
+        int count=0;
+        while(num>0){
+            int rem=num%10;
+            if(rem ==9){
+                count++;
+            }
+            num=num/10;
+        }
+        System.out.println(count);
+    }
+}
+
+
+
 
