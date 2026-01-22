@@ -36,4 +36,16 @@ class max3num {
     }
 }
 
+3.To check whether the first letter of the given word is capital or small
+
+import java.util.Scanner 
+public class Case Check{
+    public static void main(String[] args){
+        Scanner sc= new Scanner(System.in);
+        char ch=sc.next().trim().charAt(0);
+         System.out.println(ch);
+
+    }
+}
+
 
