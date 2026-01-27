@@ -4,9 +4,7 @@
 
 
 
-        System.out.print("Enter a number: ");
-        int n1 = sc.nextInt();
-        int n2 = sc.nextInt();
+        
         int n3 = sc.nextInt();
         int max = Math.max(c,Math.max(a,b));
         System.out.println("The maximum number out of three is: "+max);
