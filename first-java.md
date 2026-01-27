@@ -1,10 +1,6 @@
 
 
-              System.out.println("The number is Odd");
-        }
-    }
-}
-
+              
 
 2.Largest of 3 numbers
 
