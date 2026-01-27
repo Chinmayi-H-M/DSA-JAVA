@@ -1,14 +1,4 @@
 
-
-              
-
-
-
-        
-       
-    }
-}
-
 3.To check whether the first letter of the given word is capital or small
 
 import java.util.Scanner 
