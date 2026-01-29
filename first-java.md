@@ -1,13 +1,4 @@
 
-
-        }
-        else{
-         System.out.println("Uppercase");
-        }
-
-    }
-}
-
 4.Fibonacci numbers(Using while loop)
 
 import java.util.Scanner;
