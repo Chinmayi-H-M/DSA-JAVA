@@ -1,12 +1,5 @@
 
 
-            if(op=='+'||op=='-'||op=='*'||op=='/' ||op=='%'){
-                System.out.println("Enter the 2 numbers: ");
-                int num1=sc.nextInt();
-                int num2=sc.nextInt();
-                if(op=='+'){
-                    ans=num1+num2;
-                }
                 if(op=='-'){
                     ans=num1-num2;
                 }
