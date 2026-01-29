@@ -1,15 +1,4 @@
 
-
-                if(op=='-'){
-                    ans=num1-num2;
-                }
-                if(op=='*'){
-                    ans=num1*num2;
-                }
-                if(op=='/'){
-                    if(num2 !=0){
-                    ans=num1/num2;
-                    }
                 }
                 if(op=='%'){
                     ans=num1%num2;
