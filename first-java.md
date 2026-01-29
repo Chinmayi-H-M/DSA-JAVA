@@ -1,13 +1,4 @@
 
-4.Fibonacci numbers(Using while loop)
-
-import java.util.Scanner;
-class Main {
-    public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
-        int n= in.nextInt();
-        int a=0;
-        int b=1;
         int count =2;
         while(count<=n){
             int temp=b;
