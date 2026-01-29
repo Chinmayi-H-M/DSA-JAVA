@@ -1,9 +1,4 @@
 
-            ans=ans*10+rem;
-        }
-        System.out.println(ans);
-    }
-}
 
 7.Simple calculator
 import java.util.Scanner;
