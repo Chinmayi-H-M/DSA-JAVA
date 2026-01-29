@@ -1,15 +1,4 @@
 
-        int count=0;
-        while(num>0){
-            int rem=num%10;
-            if(rem ==9){
-                count++;
-            }
-            num=num/10;
-        }
-        System.out.println(count);
-    }
-}
 
 6.Reverse the number
 class Main {
