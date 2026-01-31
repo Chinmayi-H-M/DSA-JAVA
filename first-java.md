@@ -1,12 +1,4 @@
 
-                }
-                if(op=='%'){
-                    ans=num1%num2;
-                }
-            }
-                else if(op == 'x' || op=='X'){
-                    break;
-                }
                 else{
                     System.out.println("Invalid operation");
                 }
