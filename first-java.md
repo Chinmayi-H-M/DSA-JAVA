@@ -19,7 +19,10 @@ class EvenOdd {
 
 ##Largest of 3 numbers
 ```java
+import java.util.Scanner;
 
+class Max3Num {
+    public static void main(String[] args) {
 
 
 
