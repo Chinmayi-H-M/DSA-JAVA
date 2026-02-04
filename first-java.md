@@ -14,7 +14,11 @@ class EvenOdd {
             System.out.println("The number is Odd");
         }
     }
-}
+}```
+
+##Laegest of 3 numbers
+```java
+
 
 
 
