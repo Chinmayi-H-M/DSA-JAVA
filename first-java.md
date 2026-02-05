@@ -30,7 +30,7 @@ class Max3Num {
         int n2 = sc.nextInt();
         int n3 = sc.nextInt();
         int max = Math.max(n1, Math.max(n2, n3));
-
+        System.out.println("The maximum number out of three is: " + max);
 
 
 
