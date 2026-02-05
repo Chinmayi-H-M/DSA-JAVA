@@ -26,7 +26,7 @@ class Max3Num {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter three numbers: ");
-
+        int n1 = sc.nextInt();
 
 
 
