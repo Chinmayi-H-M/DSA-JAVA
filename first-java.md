@@ -33,6 +33,8 @@ class Max3Num {
         System.out.println("The maximum number out of three is: " + max);
    }
 }
+```
+
 
 
 
