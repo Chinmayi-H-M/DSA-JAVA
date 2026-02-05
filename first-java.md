@@ -34,6 +34,7 @@ class Max3Num {
    }
 }
 ```
+##3. Check Whether the First Letter Is Capital or Small
 
 
 
