@@ -46,6 +46,9 @@ class CaseCheck {
         } else {
             System.out.println("Uppercase");
         }
+   }
+}
+
 
 
 
