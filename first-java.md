@@ -37,6 +37,9 @@ class Max3Num {
 ##3. Check Whether the First Letter Is Capital or Small
 ```java
 import java.util.Scanner;
+class CaseCheck {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
 
 
