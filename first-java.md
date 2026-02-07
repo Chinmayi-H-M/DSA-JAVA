@@ -60,7 +60,10 @@ class Fibonacci {
         int b = 1;
         int count = 2;
         count++;
-        }
+    }
+        System.out.println(b);
+    }
+}
 
 
 
