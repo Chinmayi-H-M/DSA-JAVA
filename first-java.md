@@ -49,7 +49,7 @@ class CaseCheck {
    }
 }
 ```
-#4.Fibonacci Numbers (Using While Loop)
+## 4.Fibonacci Numbers (Using While Loop)
 ```java
 import java.util.Scanner;
 class Fibonacci {
