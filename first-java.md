@@ -51,6 +51,8 @@ class CaseCheck {
 ```
 #4.Fibonacci Numbers (Using While Loop)
 ```java
+import java.util.Scanner;
+
 
 
 
