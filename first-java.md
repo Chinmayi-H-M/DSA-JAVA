@@ -75,6 +75,7 @@ class Fibonacci {
         while (n > 0) {
           int rem = n % 10;
           if (rem == 9) {
+          count++;
 
 
 
