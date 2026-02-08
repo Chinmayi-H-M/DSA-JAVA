@@ -69,6 +69,8 @@ class Fibonacci {
 ##Count the Number of Occurrences of Digit 9
 ```java
     class CountOccurrence {
+      public static void main(String[] args) {
+        int n = 90999;
 
 
 
