@@ -71,7 +71,7 @@ class Fibonacci {
     class CountOccurrence {
       public static void main(String[] args) {
         int n = 90999;
-
+        int count = 0;
 
 
 
