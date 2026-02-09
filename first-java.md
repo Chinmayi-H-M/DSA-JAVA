@@ -84,6 +84,10 @@ class Fibonacci {
 }
 ```
 ##Reverse the Number
+```java
+class ReverseNumber {
+
+
 
 
 
