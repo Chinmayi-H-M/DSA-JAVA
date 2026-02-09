@@ -87,6 +87,7 @@ class Fibonacci {
 ```java
 class ReverseNumber {
   public static void main(String[] args) {
+     int num = 7321;
 
 
 
