@@ -90,6 +90,7 @@ class ReverseNumber {
      int num = 7321;
      int ans = 0;
      while (num > 0) {
+        int rem = num % 10;
 
 
 
