@@ -88,6 +88,7 @@ class Fibonacci {
 class ReverseNumber {
   public static void main(String[] args) {
      int num = 7321;
+     int ans = 0;
 
 
 
