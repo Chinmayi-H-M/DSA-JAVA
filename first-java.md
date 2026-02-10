@@ -98,6 +98,8 @@ class ReverseNumber {
     }
 }
 ```
+## 7.Simple Calculator
+```java
 
 
 
