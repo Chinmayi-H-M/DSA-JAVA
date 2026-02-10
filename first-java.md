@@ -100,6 +100,10 @@ class ReverseNumber {
 ```
 ## 7.Simple Calculator
 ```java
+class Calculator {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int ans = 0;
 
 
 
