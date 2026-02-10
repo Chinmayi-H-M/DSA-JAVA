@@ -121,6 +121,13 @@ class Calculator {
                       if (num2 != 0) ans = num1 / num2;
                     else System.out.println("Division by zero not allowed");
                 }
+                if (op == '%') ans = num1 % num2;
+
+                System.out.println("Result: " + ans);
+            } else {
+                System.out.println("Invalid operation");
+            }
+
 
 
 
