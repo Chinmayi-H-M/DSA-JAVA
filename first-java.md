@@ -107,6 +107,9 @@ class Calculator {
          while (true) {
             System.out.print("Enter operator (+, -, *, /, %, X to exit): ");
             char op = sc.next().trim().charAt(0);
+            if (op == 'X' || op == 'x') {
+                break;
+            }
 
 
 
