@@ -110,6 +110,10 @@ class Calculator {
             if (op == 'X' || op == 'x') {
                 break;
             }
+            if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%') {
+                System.out.print("Enter two numbers: ");
+                int num1 = sc.nextInt();
+                int num2 = sc.nextInt();
 
 
 
