@@ -1,5 +1,5 @@
 # Assignment – Basic Programming Problems
-## 1. Check for Even or Odd
+## 1.Check for Even or Odd
 
 ```java
 import java.util.Scanner;
@@ -17,7 +17,7 @@ class EvenOdd {
 }
 ```
 
-##Largest of 3 numbers
+## 2.Largest of 3 numbers
 ```java
 import java.util.Scanner;
 
@@ -34,7 +34,7 @@ class Max3Num {
    }
 }
 ```
-##3. Check Whether the First Letter Is Capital or Small
+## 3.Check Whether the First Letter Is Capital or Small
 ```java
 import java.util.Scanner;
 class CaseCheck {
@@ -66,7 +66,7 @@ class Fibonacci {
 }
 ```
 
-##Count the Number of Occurrences of Digit 9
+## 5.Count the Number of Occurrences of Digit 9
 ```java
     class CountOccurrence {
       public static void main(String[] args) {
@@ -83,7 +83,7 @@ class Fibonacci {
     }
 }
 ```
-##Reverse the Number
+## 6.Reverse the Number
 ```java
 class ReverseNumber {
   public static void main(String[] args) {
