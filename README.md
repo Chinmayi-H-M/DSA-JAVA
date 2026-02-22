@@ -1,25 +1,42 @@
-# 📘 DSA Journey in Java
+# 🚀 DSA Journey in Java
 
-This repository documents my **daily progress in Data Structures and Algorithms using Java**.  
-I am learning DSA by following the **DSA in Java YouTube playlist by Kunal Kushwaha**.
+This repository documents my daily progress in Data Structures and Algorithms using Java.
 
-This repo is created to stay consistent, track learning, and build strong problem-solving skills.
+I am learning DSA by following the **DSA in Java YouTube playlist by Kunal Kushwaha**, and applying the concepts by solving problems regularly.
+
+This repository is created to:
+- Stay consistent
+- Track my learning
+- Build strong problem-solving skills
+- Prepare for coding interviews
 
 ---
+
 ## 🎯 Goals of This Journey
-- Build a strong foundation in DSA
-- Improve logical thinking and problem-solving
-- Write clean and understandable Java code
+
+- Build a strong foundation in Data Structures and Algorithms
+- Improve logical thinking and analytical skills
+- Write clean, readable, and efficient Java code
 - Prepare for coding interviews and placements
 - Maintain daily consistency
 
 ---
+
 ## 🛠️ Tech Stack
-- **Language**: Java  
-- **IDE**: VS Code / IntelliJ IDEA  
-- **Version Control**: Git & GitHub  
+
+- **Language:** Java  
+- **IDE:** VS Code / IntelliJ IDEA  
+- **Version Control:** Git & GitHub  
 
 ---
+
+## 📚 Learning Source
+
+**YouTube Course:**  
+DSA in Java – Kunal Kushwaha
+
+I first understand the concept, then practice problems,
+revise important points, and implement optimized solutions.
 ## 📚 DSA in Java Journey
 
 **YouTube Course:**  
