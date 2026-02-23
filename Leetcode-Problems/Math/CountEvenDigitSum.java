@@ -1,7 +1,6 @@
 // Problem: Count Integers With Even Digit Sum
 // Platform: LeetCode
 // Difficulty: Easy
-// Date: 22-02-2026
 // Topic: Math
 
 class Solution {
