@@ -1,0 +1,49 @@
+// Problem: Intersection of Two Arrays
+// Platform: LeetCode
+// Difficulty: Easy
+// Topic: Arrays
+
+import java.util.ArrayList;
+```java
+class Solution {
+
+    // 🔹 Brute Force Approach
+    // Time Complexity: O(n * m)
+    // Space Complexity: O(k)  (for storing intersection elements)
+
+    public int[] intersection(int[] nums1, int[] nums2) {
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+        for(int i = 0; i < nums1.length; i++) {
+            for(int j = 0; j < nums2.length; j++) {
+
+                if(nums1[i] == nums2[j]) {
+
+                    // Avoid duplicates
+                    if(!list.contains(nums1[i])) {
+                        list.add(nums1[i]);
+                    }
+                }
+            }
+        }
+
+        // Convert ArrayList to Array
+        int[] result = new int[list.size()];
+
+        for(int i = 0; i < list.size(); i++) {
+            result[i] = list.get(i);
+        }
+
+        return result;
+    }
+}
+```
+
+/*
+Approach:
+1. Compare each element of nums1 with nums2.
+2. If elements match, add to list (avoid duplicates).
+3. Convert ArrayList to array.
+4. Return result.
+*/
