@@ -2,7 +2,6 @@
 // Platform: LeetCode
 // Difficulty: Easy
 // Topic: Math
-```java
 class Solution {
 
     // Time Complexity: O(log10 n)
@@ -22,7 +21,6 @@ class Solution {
         return x == reversedHalf || x == reversedHalf / 10;
     }
 }
-```
 
 /*
 Approach:
