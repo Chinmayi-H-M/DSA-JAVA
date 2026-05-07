@@ -30,20 +30,3 @@ This repository is created to:
 
 ---
 
-## 📚 Learning Source
-
-**YouTube Course:**  
-DSA in Java – Kunal Kushwaha
-
-I first understand the concept, then practice problems,
-revise important points, and implement optimized solutions.
-## 📚 DSA in Java Journey
-
-**YouTube Course:**  
-[DSA in Java by Kunal Kushwaha](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-
-**Approach:**  
-Concept → Practice → Revise
-
-
----
