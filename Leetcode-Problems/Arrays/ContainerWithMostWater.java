@@ -1,29 +1,4 @@
-// Problem: Container With Most Water
-// Platform: LeetCode
-// Difficulty: Medium
-// Topic: Arrays, Two Pointers
 
-class Solution {
-
-    // Time Complexity: O(n)
-    // Space Complexity: O(1)
-
-    public int maxArea(int[] height) {
-
-        int n = height.length;
-        int maxArea = 0;
-
-        int l = 0;
-        int r = n - 1;
-
-        while (l < r) {
-
-            int h = Math.min(height[l], height[r]);
-            int w = r - l;
-
-            int area = h * w;
-
-            maxArea = Math.max(maxArea, area);
 
             // Move smaller height pointer
             if (height[l] <= height[r]) {
