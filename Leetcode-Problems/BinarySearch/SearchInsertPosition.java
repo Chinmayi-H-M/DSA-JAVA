@@ -1,17 +1,4 @@
-// Problem: Search Insert Position
-// Platform: LeetCode
-// Difficulty: Easy
-// Topic: Binary Search
 
-class Solution {
-
-    // Time Complexity: O(log n)
-    // Space Complexity: O(1)
-
-    public int searchInsert(int[] nums, int target) {
-
-        int low = 0;
-        int high = nums.length - 1;
 
         while (low <= high) {
 
