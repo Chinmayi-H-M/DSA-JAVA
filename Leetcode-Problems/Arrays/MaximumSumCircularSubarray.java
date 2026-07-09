@@ -22,15 +22,12 @@ class Solution {
         for (int num : nums) {
             total += num;
         }
-
-        // Kadane's Algorithm for maximum subarray sum
-        for (int i = 1; i < nums.length; i++) {
+        
+        for(int i=1;i<nums.length;i++){
             currentMax = Math.max(nums[i], currentMax + nums[i]);
             maxSum = Math.max(maxSum, currentMax);
-        }
 
-        // Kadane's Algorithm for minimum subarray sum
-        for (int i = 1; i < nums.length; i++) {
+        
             currentMin = Math.min(nums[i], currentMin + nums[i]);
             minSum = Math.min(minSum, currentMin);
         }
