@@ -1,4 +1,4 @@
-# 🚀 DSA Journey in Java
+# 🚀 DSA Journey in Jav
 
 This repository documents my daily progress in Data Structures and Algorithms using Java.
 
