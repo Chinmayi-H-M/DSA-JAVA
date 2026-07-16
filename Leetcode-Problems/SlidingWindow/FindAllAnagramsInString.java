@@ -1,7 +1,6 @@
 // Problem: Find All Anagrams in a String
 // Platform: LeetCode
 // Difficulty: Medium
-// Date: 22-02-2026
 // Topic: Sliding Window, HashMap
 
 import java.util.*;
