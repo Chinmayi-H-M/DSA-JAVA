@@ -1,7 +1,6 @@
 // Problem: Longest Substring with K Unique Characters
 // Platform: GeeksforGeeks
 // Difficulty: Medium
-// Date: 22-02-2026
 // Topic: Sliding Window, HashMap
 
 class Solution {
