@@ -1,3 +1,11 @@
+// Problem: 3Sum
+// Platform: LeetCode
+// Difficulty: Medium
+// Topic: Arrays, Two Pointers
+
+import java.util.*;
+
+class Solution {
 
     // Time Complexity: O(n^2)
     // Space Complexity: O(1) excluding output
