@@ -1,14 +1,4 @@
-# 🚀 DSA Journey in Java
 
-This repository documents my daily progress in Data Structures and Algorithms using Java.
-
-I am learning DSA by following the **DSA in Java YouTube playlist by Kunal Kushwaha**, and applying the concepts by solving problems regularly.
-
-This repository is created to:
-- Stay consistent
-- Track my learning
-- Build strong problem-solving skills
-- Prepare for coding interviews
 
 ---
 
