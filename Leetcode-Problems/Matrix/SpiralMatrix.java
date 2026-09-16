@@ -1,4 +1,10 @@
-
+// Problem: Spiral Matrix
+// Platform: LeetCode
+// Problem Number: 54
+// Difficulty: Medium
+// Topic: Matrix
+// Time Complexity: O(m * n)
+// Space Complexity: O(1) auxiliary space
 
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
