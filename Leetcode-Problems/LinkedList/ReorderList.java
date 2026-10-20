@@ -1,4 +1,18 @@
-
+/*
+ * Problem: Reorder List
+ * Platform: LeetCode
+ * Problem Number: 143
+ * Difficulty: Medium
+ * Topic: Linked List, Two Pointers
+ *
+ * Approach:
+ * 1. Find the middle of the linked list using slow and fast pointers.
+ * 2. Reverse the second half of the list.
+ * 3. Merge both halves alternately.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
 
 class Solution {
     public void reorderList(ListNode head) {
